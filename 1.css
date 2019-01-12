@@ -40,10 +40,6 @@
         background: #e79ea1;
         color: #fff;
     }
-button.btn-btn-default.btt8-1:hover {
-    background: #e79ea1;
-    color: #fff;
-}
 
 button.btn-btn-default.btt8-2 {
     border: 2px solid #e49497;
@@ -1760,7 +1756,7 @@ img.anhtop7 {
 .anhtop14{
     width: 15%;
 }
-@media (max-width:576px){
+
     .col-lg-2.gachgiua{
         height: 0;
     }
@@ -7030,10 +7026,7 @@ img.anhtop7 {
         line-height: 4;
     }
 
-    ul.nav.navbar-nav.navbar-right {
-        /* color: pink; */
-    }
-
+  
     .navbar-default .navbar-brand {
         color: pink;
         line-height: 2;
@@ -7545,7 +7538,7 @@ img.anhtop7 {
 
     nav.navbar.navbar-default {
         margin-bottom: 0px;
-        background: #22222287;
+        background: #22222200;
         position: fixed;
         border: 0px;
         width: 100%;
@@ -7617,7 +7610,7 @@ img.anhtop7 {
         background: gray;
         position: absolute;
     }
-    @media (max-width:576px){
+    @media only screen and (min-width: 414px) and (max-width: 736px){
 
         .col-lg-2.gachgiua{
             height: 0;

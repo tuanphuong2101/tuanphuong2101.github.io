@@ -6,8 +6,8 @@
 	 var hu=new TimelineMax();
 
 	 // function chay(){
-	 // 	hu.to($('.quatim'),0.4,{scale:0.9}); 
-	 // 	hu.to($('.quatim'),0.4,{scale:1});
+	 // 	hu.to($('.quatim.col-xs-3.tim'),0.4,{scale:0.9}); 
+	 // 	hu.to($('.quatim.col-xs-3.tim'),0.4,{scale:1});
 	 // 	chay();
 	 // }
 	 // chay();
@@ -25,6 +25,7 @@
 	 if (manhinhdienthoai<=400) {
 	 	$('.col-lg-2.gachgiua.col-lg-push-1').addClass('xoagach');
 	 }
+	
 
 
 	 $('#yokohama1').click(function(event) {
