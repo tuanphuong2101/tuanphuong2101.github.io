@@ -25,6 +25,19 @@
 	 if (manhinhdienthoai<=400) {
 	 	$('.col-lg-2.gachgiua.col-lg-push-1').addClass('xoagach');
 	 }
+
+
+	 $('#yokohama1').click(function(event) {
+	 	/* Act on the event */
+	 	var danhmuc=$(this).data('anh');
+	 		console.log(danhmuc)
+	 	 	return false;
+	 	 	$('.col-md-4.col-lg-4').each(function() {
+	 	 		if ($(this).hasClass(danhmuc)) {
+	 	 			$(this).show();
+	 	 		}
+	 	 	});
+	 });
 	})
 
  
