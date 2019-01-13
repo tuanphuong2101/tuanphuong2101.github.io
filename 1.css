@@ -7541,6 +7541,7 @@ img.anhtop7 {
         background: #22222200;
         position: fixed;
         border: 0px;
+        top: 0;
         width: 100%;
         left: 0;
         height: 115px;
