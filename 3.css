@@ -80,16 +80,18 @@
 	}
 	.tenck.wow.wobble {
 		font-size: 15px;
-		right: 34%;
 
+		margin-top: -5%;
 		bottom: 0%;
-		    top: 39%;
+    top: 39%;
+    right: 42%;
 	}
 	.tenvk.wow.wobble {
 		font-size: 15px;
-		right: 32%;
+	
 		bottom: 0%;
-	top: 40%;
+    top: 39%;
+    right: 40%;
 	}
 	.gachtop6-2{
 		opacity: 0;
