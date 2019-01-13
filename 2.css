@@ -61,8 +61,6 @@ img.img-responsive.anhtop16 {
 	overflow: hidden;
 }
 .if2 {
-    opacity: 0;
-    visibility: hidden;
     width: 0;
     height: 0;
 }
