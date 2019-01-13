@@ -7,6 +7,9 @@
 		padding-right: 0px;
 		padding-left: 0px;
 	}
+	.row.rowtop6 {
+    margin-left: 0px;
+}
 	.quatim.col-xs-3.tim {
 		font-size: 82px;
 		right: 19px;
@@ -166,7 +169,7 @@
 		margin-left: 9%;
 	}
 	.col-md-3.col-lg-3.coltop11 {
-		margin-left: 5%;
+		margin-left: 4%;
 	}
 	.col-xs-12.col-sm-12.col-md-12.col-lg-12.coltop9.text-center {
 		margin-left: 4%;
@@ -207,7 +210,7 @@
 		visibility: hidden;
 	}
 	.top6 {
-		margin-left: 16px;
+		    margin-left: 7%;
 	}
 	.col-xs-12.col-sm-12.col-md-12.col-lg-12.coltop4.text-center {
 
@@ -217,9 +220,7 @@
 	.row.rowtop5 {
 		margin-left: 8%;
 	}
-	.row.rowtop6 {
-		margin-left: 5%;
-	}
+	
 	.row.rowtop7 {
 		margin-left: 6%;
 	}
