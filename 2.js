@@ -15,13 +15,12 @@ document.addEventListener("DOMContentLoaded",function(){
 		if (vitri>=5235||vitri>=3848) {
 			$('img.img-responsive.anhtop9').addClass('anhtdc')
 		}
-		else if (vitri>=164) {
+		else if (vitri>=149) {
 			$('nav.navbar.navbar-default').addClass('menuhienra');
 
 		}
-		else if (vitri<=164) {
+		else if (vitri<=149) {
 			$('nav.navbar.navbar-default').removeClass('menuhienra');
-
 		}
 		else if (vitri>=1096||vitri>=191.19) {
 			$('img.img-responsive.anhtop4').addClass('anhtop4dc');
