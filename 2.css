@@ -94,15 +94,12 @@ p.ptop15-2 {
 .col-lg-12.coltop5.text-center {
 	margin-top: 5%;
 }
-audio {
-    opacity: 0;
-    visibility: hidden;
-}
 .col-xs-12.col-sm-12.col-md-12.col-lg-12.coltop10 {
 	text-align: center;
 	margin-top: 5%;
 	margin-bottom: 5%;
 }
+
 body {
 	font-size: 14px;
 	line-height: 1.42857143;
