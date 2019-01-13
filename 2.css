@@ -60,6 +60,12 @@ img.img-responsive.anhtop16 {
 .col-xs-12.col-sm-12.col-md-12.col-lg-12.coltop16 {
 	overflow: hidden;
 }
+.if2 {
+    opacity: 0;
+    visibility: hidden;
+    width: 0;
+    height: 0;
+}
 
 .quatim.col-xs-3.tim {
 	font-size: 300px;
