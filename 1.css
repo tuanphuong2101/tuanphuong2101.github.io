@@ -7580,7 +7580,7 @@ img.anhtop7 {
     p.ptop5 {
         position: absolute;
         margin-left: 41%;
-        background: #fff;
+        background: #f6f6f6;
         bottom: -35%;
         padding: 22px;
         font-size: 22px;
@@ -7597,7 +7597,7 @@ img.anhtop7 {
     p.ptop2 {
         position: absolute;
         margin-left: 41%;
-        background: #fff;
+        background: #f6f6f6;
         bottom: -35%;
         padding: 22px;
         font-family: 'Caveat', cursive;
@@ -7765,12 +7765,6 @@ h1.h2top4-1{
     height: 189px;
 }.col-md-3.col-lg-3.coltop11{
     width: 100%;
-}
-.tenck.wow.wobble {
-    font-size: 13px;
-    top: 29%;
-    right: 38%;
-    position: absolute;
 }
 
 }

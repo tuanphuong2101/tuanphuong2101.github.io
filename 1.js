@@ -5,12 +5,12 @@
 	 new WOW().init();
 	 var hu=new TimelineMax();
 
-	 function chay(){
-	 	hu.to($('.quatim.col-xs-3.tim'),0.4,{scale:0.9}); 
-	 	hu.to($('.quatim.col-xs-3.tim'),0.4,{scale:1});
-	 	chay();
-	 }
-	 chay();
+	 // function chay(){
+	 // 	hu.to($('.quatim.col-xs-3.tim'),0.4,{scale:0.9}); 
+	 // 	hu.to($('.quatim.col-xs-3.tim'),0.4,{scale:1});
+	 // 	chay();
+	 // }
+	 // chay();
 
 	 // hu.to($('.tenck'),1,{x:-150});
 	 // hu.to($('.tenvk'),1,{x:-135});
@@ -21,24 +21,20 @@
 
 	 // codecho responsive
 	 
-	 var manhinhdienthoai=$(window).width();
-	 if (manhinhdienthoai<=400) {
-	 	$('.col-lg-2.gachgiua.col-lg-push-1').addClass('xoagach');
-	 }
-	
+	 
 
 
-	 $('#yokohama1').click(function(event) {
-	 	/* Act on the event */
-	 	var danhmuc=$(this).data('anh');
-	 		console.log(danhmuc)
-	 	 	return false;
-	 	 	$('.col-md-4.col-lg-4').each(function() {
-	 	 		if ($(this).hasClass(danhmuc)) {
-	 	 			$(this).show();
-	 	 		}
-	 	 	});
-	 });
+	//  $('#yokohama1').click(function(event) {
+	//  	/* Act on the event */
+	//  	var danhmuc=$(this).data('anh');
+	//  		console.log(danhmuc)
+	 	 	
+	//  	 	$('.col-md-4.col-lg-4.').each(function() {
+	//  	 		if ($(this).hasClass(danhmuc)) {
+	//  	 			$(this).show();
+	//  	 		}
+	//  	 	});
+	//  });
 	})
 
  
