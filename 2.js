@@ -9,9 +9,9 @@ document.addEventListener("DOMContentLoaded",function(){
 	}
 	$(window).scroll(function(event) {
 		/* Act on the event */
-		console.log('vitri');
+		// console.log('vitri');
 		var vitri=$(window).scrollTop();
-		console.log(vitri)
+		// console.log(vitri)
 		if (vitri>=5235||vitri>=3848) {
 			$('img.img-responsive.anhtop9').addClass('anhtdc')
 		}
