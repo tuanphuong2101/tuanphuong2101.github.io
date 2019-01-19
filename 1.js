@@ -5,12 +5,12 @@
 	 new WOW().init();
 	 var hu=new TimelineMax();
 
-	 // function chay(){
-	 // 	hu.to($('.quatim.col-xs-3.tim'),0.4,{scale:0.9}); 
-	 // 	hu.to($('.quatim.col-xs-3.tim'),0.4,{scale:1});
-	 // 	chay();
-	 // }
-	 // chay();
+	 function chay(){
+	 	hu.to($('.quatim.col-xs-3.tim'),0.4,{scale:0.9}); 
+	 	hu.to($('.quatim.col-xs-3.tim'),0.4,{scale:1});
+	 	chay();
+	 }
+	 chay();
 
 	 // hu.to($('.tenck'),1,{x:-150});
 	 // hu.to($('.tenvk'),1,{x:-135});
